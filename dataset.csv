@@ -1,0 +1,69 @@
+N,P,K,temp,humidity,crop
+
+# Rice
+90,40,40,25,80,Rice
+85,35,30,26,75,Rice
+95,45,35,26,85,Rice
+80,40,30,24,78,Rice
+88,42,33,25,82,Rice
+78,38,29,24,76,Rice
+91,44,37,26,84,Rice
+83,39,31,25,79,Rice
+
+# Wheat
+60,30,20,20,60,Wheat
+55,25,15,18,65,Wheat
+50,20,10,17,55,Wheat
+52,24,12,19,60,Wheat
+58,27,18,21,63,Wheat
+53,26,14,20,61,Wheat
+
+# Maize
+70,30,25,27,70,Maize
+65,35,20,28,65,Maize
+68,28,22,29,68,Maize
+72,32,26,28,72,Maize
+69,30,23,27,69,Maize
+71,31,24,29,70,Maize
+
+# Cotton
+110,50,45,30,60,Cotton
+105,48,40,32,58,Cotton
+115,52,46,31,62,Cotton
+108,49,43,29,59,Cotton
+112,51,44,30,61,Cotton
+
+# Sugarcane
+130,60,55,28,85,Sugarcane
+135,65,60,30,88,Sugarcane
+128,58,52,27,83,Sugarcane
+140,70,65,31,90,Sugarcane
+132,62,57,29,87,Sugarcane
+
+# Groundnut
+40,20,20,26,55,Groundnut
+45,22,18,27,50,Groundnut
+42,19,16,25,52,Groundnut
+38,18,15,24,48,Groundnut
+44,21,17,26,54,Groundnut
+
+# Barley
+48,25,20,18,60,Barley
+50,26,22,19,62,Barley
+46,24,19,17,58,Barley
+52,27,23,20,63,Barley
+49,25,21,18,59,Barley
+
+# Soybean
+75,35,30,27,65,Soybean
+78,38,32,28,68,Soybean
+72,33,28,26,64,Soybean
+80,40,34,29,70,Soybean
+76,36,31,27,66,Soybean
+
+# Millet
+35,18,15,30,40,Millet
+38,20,16,31,42,Millet
+32,15,14,29,38,Millet
+36,17,15,30,41,Millet
+40,21,18,32,45,Millet
